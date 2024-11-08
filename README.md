@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## StudyPulse 📚✨
 
-## Getting Started
+StudyPulse is a minimalist study-scheduling app designed with open university students in mind. We know that juggling work, studies, and personal life can be challenging—especially with the flexible but demanding schedules of distance learning. StudyPulse helps you create and stick to a study plan that fits around your life, with a simple interface that keeps you focused without overwhelming you with too many features.
 
-First, run the development server:
+##Why StudyPulse?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Whether you're working full-time, raising a family, or just managing a busy life, StudySync is here to make your study sessions easier to plan and accomplish. This app is for students who want a personalized, low-stress way to stay on track with their studies and reach their goals, one task at a time.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Customizable Weekly Planner 📅
+Set up a study plan that works around your unique schedule. Choose your available study days and times, and StudySync will help keep you on track each week.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+##Flexible Goals and Task Setting 🎯
 
-## Learn More
+Define your study goals and break them down into smaller, manageable tasks. Track your progress and get reminders for each session so that you're always moving toward your big academic goals.
 
-To learn more about Next.js, take a look at the following resources:
+## Deadline Reminders ⏰
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+No more last-minute cramming! Add important assignment deadlines and exam dates, and StudySync will give you gentle nudges to help you stay ahead.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Focus Timer and Break Reminders 🕒
 
-## Deploy on Vercel
+Use the built-in timer to set focused study blocks with regular break prompts. This feature helps you keep your concentration without burning out.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Progress Tracking and Milestone Alerts 📈
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Get a quick overview of your weekly and monthly progress. Celebrate your accomplishments with milestone alerts, so you stay motivated and consistent.
+
+## Minimal, Distraction-Free Design 🎨
+
+We've kept StudySync simple, clean, and free of distractions—so that you can focus on what matters most: learning.
